@@ -1,0 +1,16 @@
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\bin\Debug\net5.0\imc-2.exe
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\bin\Debug\net5.0\imc-2.deps.json
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\bin\Debug\net5.0\imc-2.runtimeconfig.json
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\bin\Debug\net5.0\imc-2.runtimeconfig.dev.json
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\bin\Debug\net5.0\imc-2.dll
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\bin\Debug\net5.0\imc-2.pdb
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\imc-2.csproj.AssemblyReference.cache
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\imc-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\imc-2.AssemblyInfoInputs.cache
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\imc-2.AssemblyInfo.cs
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\imc-2.csproj.CoreCompileInputs.cache
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\imc-2.dll
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\refint\imc-2.dll
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\imc-2.pdb
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\imc-2.genruntimeconfig.cache
+D:\1.PROGRAMAÇÃO\c#\imc-2\imc-2\obj\Debug\net5.0\ref\imc-2.dll
